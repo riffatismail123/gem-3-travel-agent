@@ -151,7 +151,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="text-gray-400 text-sm mb-4 md:mb-0">
-            © {new Date().getFullYear()} IntelliTravel PK. All rights reserved.
+            © {new Date().getFullYear()} IntelliTravel PK. All rights reserved @riffat.ismail
           </div>
           <div className="flex flex-wrap gap-4 text-sm text-gray-400">
             <a href="#" className="hover:text-white transition-colors">
@@ -174,7 +174,7 @@ export default function Footer() {
           <div className="inline-flex items-center space-x-2 bg-linear-to-r from-blue-600/20 to-emerald-600/20 px-4 py-2 rounded-full">
             <div className="w-2 h-2 bg-emerald-500 rounded-full animate-pulse"></div>
             <span className="text-sm font-medium">
-              AI-Powered Travel Agent • Certified by Pakistan Tourism Development Corporation
+              AI-Powered Travel Agent by riffat• Certified by Pakistan Tourism Development Corporation
             </span>
           </div>
         </div>
